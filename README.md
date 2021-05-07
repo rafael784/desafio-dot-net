@@ -4,16 +4,16 @@ Criar um site para consultar a API de Filmes e trazer os filmes enviados pelo en
 
 ### **O site deve contemplar** ###
 
-- __Login individual (não é necessário implementar lógicas de mudança de senha, recuperação e etc..)
+- __Login individual__ (não é necessário implementar lógicas de mudança de senha, recuperação e etc..)
 - __Uma lista de filmes populares__. Exemplo de chamada na API: `https://api.themoviedb.org/3/movie/popular?api_key={api_key}`.
     * Paginação na tela de lista.
     * Cada filme deve exibir Nome do filme e Foto do filme.
     * Ao clicar em um item da lista, deve levar ao detalhe do filme.
-- __Permitir pesquisar filmes de forma assíncrona__. Exemplo de chamada na API: `https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher`.
+- __Permitir pesquisar__ filmes de forma assíncrona__. Exemplo de chamada na API: `https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher`.
 - __Detalhes de um filme__. Exemplo de chamada na API: `https://api.themoviedb.org/3/movie/343611?api_key={api_key}`.
     * O item de detalhe deve exibir Nome, Foto e Descrição do filme.
-- __Permitir favoritar filmes.
-- __Listar filmes favoritos.
+- __Permitir favoritar filmes__.
+- __Listar filmes favoritos__.
 
 ### **Essencial** ##
 * IDE Utilizada deve ser o Visual Studio Community ou Visual Studio Code
