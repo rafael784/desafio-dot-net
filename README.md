@@ -1,9 +1,6 @@
 # Criar um site de consulta a API de Filmes #
 
-Criar um site para consultar a API de Filmes e trazer os filmes enviados pelo endpoint. Seguem abaixo telas como guia:
-
-![Pesquisa de filmes](https://github.com/digounet/desafio-dot-net/blob/master/pesquisa.png)
-![Detalhes do filme](https://github.com/digounet/desafio-dot-net/blob/master/detalhes.png)
+Criar um site para consultar a API de Filmes e trazer os filmes enviados pelo endpoint.
 
 ### **O site deve contemplar** ###
 
