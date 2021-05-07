@@ -12,8 +12,8 @@ Criar um site para consultar a API de Filmes e trazer os filmes enviados pelo en
 - __Permitir pesquisar filmes de forma assíncrona__. Exemplo de chamada na API: `https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher`.
 - __Detalhes de um filme__. Exemplo de chamada na API: `https://api.themoviedb.org/3/movie/343611?api_key={api_key}`.
     * O item de detalhe deve exibir Nome, Foto e Descrição do filme.
-- __Permitir favoritar filmes, fica a cargo do candidato sugerir onde colocar o botão favtoritar
-- __Listar filmes favoritos, fica a cargo do candidato sugerir como navegar para a listagem de favoritos
+- __Permitir favoritar filmes.
+- __Listar filmes favoritos.
 
 ### **Essencial** ##
 * IDE Utilizada deve ser o Visual Studio Community ou Visual Studio Code
